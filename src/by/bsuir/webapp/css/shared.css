@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-color: blue;
+}
+
+main {
+    margin: 150px auto auto;
+    padding: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    background-color: #b298fb;
+    width: 600px;
+}
+
